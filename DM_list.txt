@@ -1,0 +1,90 @@
+===== DM 1 of 4 (911 chars) =====
+💼 AMAZON SDE: 31 famous sawaal, pattern-wise
+Company Series #1 · @codebhai.dsa
+⭐ = reel wale 6 sawaal · 🟢 Easy 🟡 Medium 🔴 Hard
+
+🗂️ HASHING / ARRAYS
+1. 🟢 Two Sum ⭐
+leetcode.com/problems/two-sum
+2. 🟡 Group Anagrams
+leetcode.com/problems/group-anagrams
+3. 🟡 Top K Frequent Elements
+leetcode.com/problems/top-k-frequent-elements
+4. 🟡 Product of Array Except Self
+leetcode.com/problems/product-of-array-except-self
+5. 🟡 Longest Consecutive Sequence
+leetcode.com/problems/longest-consecutive-sequence
+
+🪟 SLIDING WINDOW / TWO POINTERS
+6. 🟡 Longest Substring Without Repeating Characters
+leetcode.com/problems/longest-substring-without-repeating-characters
+7. 🟡 3Sum
+leetcode.com/problems/3sum
+8. 🟡 Container With Most Water
+leetcode.com/problems/container-with-most-water
+9. 🔴 Minimum Window Substring
+leetcode.com/problems/minimum-window-substring
+10. 🔴 Trapping Rain Water ⭐
+leetcode.com/problems/trapping-rain-water
+
+===== DM 2 of 4 (715 chars) =====
+⛰️ HEAP
+11. 🟡 Kth Largest Element in an Array
+leetcode.com/problems/kth-largest-element-in-an-array
+12. 🟡 K Closest Points to Origin
+leetcode.com/problems/k-closest-points-to-origin
+13. 🟡 Reorganize String
+leetcode.com/problems/reorganize-string
+14. 🔴 Merge k Sorted Lists
+leetcode.com/problems/merge-k-sorted-lists
+15. 🔴 Find Median from Data Stream
+leetcode.com/problems/find-median-from-data-stream
+
+🌊 BFS / DFS (GRAPHS)
+16. 🟡 Number of Islands ⭐
+leetcode.com/problems/number-of-islands
+17. 🟡 Rotting Oranges ⭐
+leetcode.com/problems/rotting-oranges
+18. 🟡 Clone Graph
+leetcode.com/problems/clone-graph
+19. 🟡 Course Schedule
+leetcode.com/problems/course-schedule
+20. 🔴 Word Ladder
+leetcode.com/problems/word-ladder
+
+===== DM 3 of 4 (837 chars) =====
+🌳 TREES
+21. 🟡 Binary Tree Level Order Traversal
+leetcode.com/problems/binary-tree-level-order-traversal
+22. 🟡 Binary Tree Right Side View
+leetcode.com/problems/binary-tree-right-side-view
+23. 🟡 Lowest Common Ancestor of a Binary Tree
+leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
+24. 🔴 Serialize and Deserialize Binary Tree
+leetcode.com/problems/serialize-and-deserialize-binary-tree
+
+📅 INTERVALS + DESIGN
+25. 🟡 Merge Intervals ⭐
+leetcode.com/problems/merge-intervals
+26. 🟡 Insert Interval
+leetcode.com/problems/insert-interval
+27. 🟡 Min Stack
+leetcode.com/problems/min-stack
+28. 🟡 LRU Cache ⭐
+leetcode.com/problems/lru-cache
+
+🧮 DP
+29. 🟡 Longest Palindromic Substring
+leetcode.com/problems/longest-palindromic-substring
+30. 🟡 Word Break
+leetcode.com/problems/word-break
+31. 🟡 Coin Change
+leetcode.com/problems/coin-change
+
+===== DM 4 of 4 (346 chars) =====
+🎯 Amazon tip: sliding window, heap aur BFS/DFS pe sabse zyada focus.
+📋 SDE-1: CGPA 7.0+ · ₹25–30 LPA (approx) · DSA + problem solving + CN.
+Tips + CGPA list: github.com/nishant-Tiwari24/company-wise-dsa (credit: nishant-Tiwari24 🙏)
+
+Rozana 2 sawaal = ~15 din mein list khatam 💪 Atak jao toh reply karo!
+Follow @codebhai.dsa · agli company jaldi 🔥
