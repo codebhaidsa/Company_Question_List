@@ -1,0 +1,85 @@
+===== DM 1 of 4 (642 chars) =====
+💼 GOOGLE SWE: 30 famous sawaal, pattern-wise
+Company Series #2 · @codebhai.dsa
+⭐ = reel wale 3 sawaal · 🟢 Easy 🟡 Medium 🔴 Hard
+
+🔙 BACKTRACKING
+1. 🟡 Subsets
+leetcode.com/problems/subsets
+2. 🟡 Permutations
+leetcode.com/problems/permutations
+3. 🟡 Combination Sum
+leetcode.com/problems/combination-sum
+4. 🟡 Generate Parentheses
+leetcode.com/problems/generate-parentheses
+5. 🟡 Letter Combinations of a Phone Number
+leetcode.com/problems/letter-combinations-of-a-phone-number
+6. 🟡 Word Search
+leetcode.com/problems/word-search
+7. 🟡 Palindrome Partitioning
+leetcode.com/problems/palindrome-partitioning
+8. 🔴 N-Queens ⭐
+leetcode.com/problems/n-queens
+
+===== DM 2 of 4 (882 chars) =====
+🧮 DYNAMIC PROGRAMMING
+9. 🟢 Climbing Stairs
+leetcode.com/problems/climbing-stairs
+10. 🟡 House Robber
+leetcode.com/problems/house-robber
+11. 🟡 Coin Change
+leetcode.com/problems/coin-change
+12. 🟡 Unique Paths
+leetcode.com/problems/unique-paths
+13. 🟡 Decode Ways
+leetcode.com/problems/decode-ways
+14. 🟡 Word Break ⭐
+leetcode.com/problems/word-break
+15. 🟡 Longest Increasing Subsequence
+leetcode.com/problems/longest-increasing-subsequence
+16. 🟡 Longest Common Subsequence
+leetcode.com/problems/longest-common-subsequence
+17. 🟡 Edit Distance ⭐
+leetcode.com/problems/edit-distance
+18. 🔴 Burst Balloons
+leetcode.com/problems/burst-balloons
+
+🌊 GRAPHS
+19. 🟡 Number of Islands
+leetcode.com/problems/number-of-islands
+20. 🟡 Course Schedule
+leetcode.com/problems/course-schedule
+21. 🟡 Evaluate Division
+leetcode.com/problems/evaluate-division
+22. 🔴 Word Ladder
+leetcode.com/problems/word-ladder
+
+===== DM 3 of 4 (653 chars) =====
+🗂️ ARRAYS / STRINGS
+23. 🟢 Two Sum
+leetcode.com/problems/two-sum
+24. 🟡 Longest Substring Without Repeating Characters
+leetcode.com/problems/longest-substring-without-repeating-characters
+25. 🟡 Merge Intervals
+leetcode.com/problems/merge-intervals
+26. 🔴 Trapping Rain Water
+leetcode.com/problems/trapping-rain-water
+27. 🔴 Median of Two Sorted Arrays
+leetcode.com/problems/median-of-two-sorted-arrays
+
+🌳 TREES + DESIGN
+28. 🟡 LRU Cache
+leetcode.com/problems/lru-cache
+29. 🔴 Binary Tree Maximum Path Sum
+leetcode.com/problems/binary-tree-maximum-path-sum
+30. 🔴 Serialize and Deserialize Binary Tree
+leetcode.com/problems/serialize-and-deserialize-binary-tree
+
+===== DM 4 of 4 (432 chars) =====
+🎯 Google tip: backtracking aur DP pe sabse zyada focus.
+⌨️ Coding round mein run button nahi: pehle approach bolo, phir code, phir haath se dry run.
+📋 SWE: CGPA 7.0+ · ₹30–40 LPA (approx) · DSA + System Design + OS + CN + ML.
+Tips + CGPA list: github.com/nishant-Tiwari24/company-wise-dsa (credit: nishant-Tiwari24 🙏)
+
+Rozana 2 sawaal = ~15 din mein list khatam 💪 Atak jao toh reply karo!
+Follow @codebhai.dsa · agli company jaldi 🔥
