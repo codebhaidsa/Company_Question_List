@@ -1,4 +1,3 @@
-===== DM 1 of 4 (642 chars) =====
 💼 GOOGLE SWE: 30 famous sawaal, pattern-wise
 Company Series #2 · @codebhai.dsa
 ⭐ = reel wale 3 sawaal · 🟢 Easy 🟡 Medium 🔴 Hard
@@ -21,7 +20,6 @@ leetcode.com/problems/palindrome-partitioning
 8. 🔴 N-Queens ⭐
 leetcode.com/problems/n-queens
 
-===== DM 2 of 4 (882 chars) =====
 🧮 DYNAMIC PROGRAMMING
 9. 🟢 Climbing Stairs
 leetcode.com/problems/climbing-stairs
@@ -54,7 +52,6 @@ leetcode.com/problems/evaluate-division
 22. 🔴 Word Ladder
 leetcode.com/problems/word-ladder
 
-===== DM 3 of 4 (653 chars) =====
 🗂️ ARRAYS / STRINGS
 23. 🟢 Two Sum
 leetcode.com/problems/two-sum
@@ -75,11 +72,9 @@ leetcode.com/problems/binary-tree-maximum-path-sum
 30. 🔴 Serialize and Deserialize Binary Tree
 leetcode.com/problems/serialize-and-deserialize-binary-tree
 
-===== DM 4 of 4 (432 chars) =====
 🎯 Google tip: backtracking aur DP pe sabse zyada focus.
 ⌨️ Coding round mein run button nahi: pehle approach bolo, phir code, phir haath se dry run.
 📋 SWE: CGPA 7.0+ · ₹30–40 LPA (approx) · DSA + System Design + OS + CN + ML.
-Tips + CGPA list: github.com/nishant-Tiwari24/company-wise-dsa (credit: nishant-Tiwari24 🙏)
 
 Rozana 2 sawaal = ~15 din mein list khatam 💪 Atak jao toh reply karo!
 Follow @codebhai.dsa · agli company jaldi 🔥
